@@ -64,7 +64,7 @@ Explore my repositories:
 ### 📫 Contact Me
 
 <p>
-  <a href="omkarsawant32970@gmail.com" target="_blank">
+  <a href="mailto:omkarsawant32970@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/omkar-sawant19-webdeveloper" target="_blank">
