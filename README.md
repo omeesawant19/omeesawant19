@@ -67,7 +67,7 @@ Explore my repositories:
   <a href="omkarsawant32970@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[linkedin.com/in/omkar-sawant19-webdeveloperd](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BdWT6n5nPTM6RcdLSmn0Ovg%3D%3D)" target="_blank">
+  <a href="https://www.linkedin.com/in/omkar-sawant19-webdeveloper" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
